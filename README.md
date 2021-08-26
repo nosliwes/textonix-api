@@ -29,3 +29,9 @@ http://127.0.0.1:5000/api/intent
 The result is a string value of the recoginized intent.  
 
 There are four possible intents, <b>finance</b>, <b>trade</b>, <b>inventory</b>, or <b>stop</b>.
+
+### Deployment
+
+A testing endpoint is deployed to https://textonix-api.azurewebsites.net/
+
+
