@@ -34,4 +34,9 @@ There are four possible intents, <b>finance</b>, <b>trade</b>, <b>inventory</b>,
 
 A testing endpoint is deployed to https://textonix-api.azurewebsites.net/
 
+Documentation for deploying to a flask application to an Azure App Service can be found here
+
+https://docs.microsoft.com/en-us/azure/developer/python/tutorial-deploy-app-service-on-linux-01
+
+
 
