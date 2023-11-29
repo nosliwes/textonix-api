@@ -8,6 +8,8 @@ Steps to run:
 
 After the api is running, the api exposes two endpoints, one for outcome prediction and one for intent classification.
 
+Use pip install -r requirements.txt to install libraries if running locally.
+
 ### Outcome Prediction
 
 Outcome prediction exposes a <b><i>POST</i></b> method accepting one form field named <b><i>message</i></b>.
